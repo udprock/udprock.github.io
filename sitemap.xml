@@ -5,101 +5,95 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/algorithm/large-file-diff-concurrent/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/algorithm/large-file-diff-concurrent/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/algorithm/large-file-diff/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/algorithm/large-file-diff/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/java/FullGc/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/java/FullGc/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/web/spring-security/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/web/spring-security/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/lisp/the-scheme-eval/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/common/design-pattern/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/common/design-pattern/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/java/java-concurrent/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/java/java-concurrent/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/web/encode-decode/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/web/encode-decode/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/web/file-upload/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/web/file-upload/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/java/effective-java/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/java/effective-java/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/java/java-nio/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/java/java-nio/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/java/java-io/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/java/java-io/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    
-    <url>
-        <loc>https://bit-ranger.github.io/blog/common/why-complement/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/common/why-complement/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/archive/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/archive/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/category/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/category/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>https://bit-ranger.github.io/blog/tags/</loc>
-        <lastmod>2020-05-25T01:23:33+08:00</lastmod>
+        <loc>http://localhost:4000/tags/</loc>
+        <lastmod>2020-05-26T01:50:44+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
